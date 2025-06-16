@@ -39,7 +39,7 @@ const castle = () => {
     country: "Isekai",
     bio: "Anything I Want."
   }
-}
+};
 
 
 🧩 Connect with me
