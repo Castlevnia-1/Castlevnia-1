@@ -33,13 +33,7 @@
 - ⚡ Anu.. **I Am Anime.**
 
 ```js
-const castle = () => {
-  return {
-    pronouns: "Anime" || "null",
-    country: "Isekai",
-    bio: "Anything I Want."
-  }
-};
+
 
 
 🧩 Connect with me
